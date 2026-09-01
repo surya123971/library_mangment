@@ -1,0 +1,29 @@
+{
+    "books": {
+        "1234": {
+            "book_id": "1234",
+            "title": "gaming",
+            "author": "surya",
+            "category": "playing",
+            "available": true
+        }
+    },
+    "members": {
+        "123": {
+            "member_id": "123",
+            "name": "akash",
+            "phone": "9182782325",
+            "borrowed_books": []
+        }
+    },
+    "history": [
+        {
+            "member_id": "123",
+            "book_id": "1234",
+            "issue_date": "2026-09-01",
+            "due_date": "2026-09-15",
+            "return_date": "2026-09-01",
+            "fine": 0
+        }
+    ]
+}
