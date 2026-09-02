@@ -6,6 +6,20 @@
             "author": "surya",
             "category": "playing",
             "available": true
+        },
+        "12": {
+            "book_id": "12",
+            "title": "project",
+            "author": "jag",
+            "category": "study",
+            "available": true
+        },
+        "-800": {
+            "book_id": "-800",
+            "title": "gamingg",
+            "author": "nihanth",
+            "category": "waste",
+            "available": true
         }
     },
     "members": {
@@ -14,12 +28,26 @@
             "name": "akash",
             "phone": "9182782325",
             "borrowed_books": []
+        },
+        "12345": {
+            "member_id": "12345",
+            "name": "kishore",
+            "phone": "345678",
+            "borrowed_books": []
         }
     },
     "history": [
         {
             "member_id": "123",
             "book_id": "1234",
+            "issue_date": "2026-09-01",
+            "due_date": "2026-09-15",
+            "return_date": "2026-09-01",
+            "fine": 0
+        },
+        {
+            "member_id": "12345",
+            "book_id": "12",
             "issue_date": "2026-09-01",
             "due_date": "2026-09-15",
             "return_date": "2026-09-01",
